@@ -25,6 +25,36 @@
 - **Autonomous Research**: Background agent continuously gathering market intelligence
 - **Enterprise Security**: Clerk authentication, API key protection, and IAM-based access control
 
+## Screenshots
+
+<details>
+<summary>Click to view application screenshots</summary>
+
+![UI Screenshot 1](assets/ui_1.png)
+![UI Screenshot 2](assets/ui_2.png)
+![UI Screenshot 3](assets/ui_3.png)
+![UI Screenshot 4](assets/ui_4.png)
+![UI Screenshot 5](assets/ui_5.png)
+![UI Screenshot 6](assets/ui_6.png)
+![UI Screenshot 7](assets/ui_7.png)
+![UI Screenshot 8](assets/ui_8.png)
+![UI Screenshot 9](assets/ui_9.png)
+![UI Screenshot 10](assets/ui_10.png)
+![UI Screenshot 11](assets/ui_11.png)
+![UI Screenshot 12](assets/ui_12.png)
+![UI Screenshot 13](assets/ui_13.png)
+![UI Screenshot 14](assets/ui_14.png)
+![UI Screenshot 15](assets/ui_15.png)
+![UI Screenshot 16](assets/ui_16.png)
+![UI Screenshot 17](assets/ui_17.png)
+![UI Screenshot 18](assets/ui_18.png)
+![UI Screenshot 19](assets/ui_19.png)
+![UI Screenshot 20](assets/ui_20.png)
+![UI Screenshot 21](assets/ui_21.png)
+![UI Screenshot 22](assets/ui_22.png)
+
+</details>
+
 ## Architecture
 
 Alex uses a modern serverless architecture on AWS, combining AI services with cost-effective infrastructure:
@@ -253,36 +283,6 @@ cd terraform/6_agents && terraform destroy
 cd terraform/5_database && terraform destroy
 # ... continue for remaining directories
 ```
-
-## Screenshots
-
-<details>
-<summary>Click to view application screenshots</summary>
-
-![UI Screenshot 1](assets/ui_1.png)
-![UI Screenshot 2](assets/ui_2.png)
-![UI Screenshot 3](assets/ui_3.png)
-![UI Screenshot 4](assets/ui_4.png)
-![UI Screenshot 5](assets/ui_5.png)
-![UI Screenshot 6](assets/ui_6.png)
-![UI Screenshot 7](assets/ui_7.png)
-![UI Screenshot 8](assets/ui_8.png)
-![UI Screenshot 9](assets/ui_9.png)
-![UI Screenshot 10](assets/ui_10.png)
-![UI Screenshot 11](assets/ui_11.png)
-![UI Screenshot 12](assets/ui_12.png)
-![UI Screenshot 13](assets/ui_13.png)
-![UI Screenshot 14](assets/ui_14.png)
-![UI Screenshot 15](assets/ui_15.png)
-![UI Screenshot 16](assets/ui_16.png)
-![UI Screenshot 17](assets/ui_17.png)
-![UI Screenshot 18](assets/ui_18.png)
-![UI Screenshot 19](assets/ui_19.png)
-![UI Screenshot 20](assets/ui_20.png)
-![UI Screenshot 21](assets/ui_21.png)
-![UI Screenshot 22](assets/ui_22.png)
-
-</details>
 
 ## Acknowledgments
 
